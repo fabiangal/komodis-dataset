@@ -14,7 +14,7 @@ For detailed information please check the paper. Below are two dialogue examples
 
 
 ### Data
-We provide the full postprocessed dialogue dataset in *data/dataset.json* (will be updloaded soon!).
+We provide the full postprocessed dialogue dataset in *data/dataset.json*.
 
 For explanations on how to read and use the structured data, please check *data/example.json* (will be updloaded soon!).
 
