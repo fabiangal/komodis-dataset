@@ -10,8 +10,7 @@ We introduce an augmented dialogue dataset (**K**nowledgable and **O**pinionated
 
 ### Dialogue examples
 For detailed information please check the paper. Below are two dialogue examples.
-![Dialogue examples](https://fsmt.blob.core.windows.net/komodis/examples.PNG)
-
+![example_dialogues_dataset.pdf](https://github.com/fabiangal/komodis-dataset/files/6062327/example_dialogues_dataset.pdf)
 
 ### Data
 We provide the full postprocessed dialogue dataset in *data/dataset.json*.
