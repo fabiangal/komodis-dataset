@@ -10,7 +10,7 @@ We introduce an augmented dialogue dataset (**K**nowledgable and **O**pinionated
 
 ### Dialogue examples
 For detailed information please check the paper. Below are two dialogue examples.
-![example_dialogues_dataset.pdf](https://github.com/fabiangal/komodis-dataset/files/6062327/example_dialogues_dataset.pdf)
+![example_dialogues](https://user-images.githubusercontent.com/61545955/109512002-f09cd500-7aa3-11eb-8766-3da6e6320485.png)
 
 ### Data
 We provide the full postprocessed dialogue dataset in *data/dataset.json*.
@@ -20,6 +20,7 @@ For explanations on how to read and use the structured data, please check *data/
 
 ### Model
 We provide a baseline script to train a GPT-2 model with our dataset in PyTorch in *model/*.
+
 To train a model, you have to run the *train.py* script:
 ````
 python train.py --dataset komodis
